@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 - 👋 Hi, I’m **@MHZardary** *(Mohammad Hossein Zardary)*
-- 💼 Machine Learning Engineer
+- 💼 AI researcher and Machine Learning Engineer
 - 🤖 Interested in collaborating on AI and Finance projects
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/mhzardary/)
  [![Twitter: @mhzardary](https://img.shields.io/badge/Twitter-@mhzardary-blue.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mhzardary)
